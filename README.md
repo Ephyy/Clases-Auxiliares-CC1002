@@ -9,7 +9,7 @@ Agradicimientos a todas las personas que han participado en la creación de algu
 - [Valentin Muñoz](https://github.com/valentitos) 
 - Cristian Parra
 - [Vicente Ardiles](https://github.com/Ephyy)
-- Vanessa Gaete
+- [Vanessa Gaete](https://github.com/VanessaGaete)
 - Monserrat Prado
 - Julieta Coloma
 - Arianne Peña
