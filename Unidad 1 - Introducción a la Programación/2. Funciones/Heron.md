@@ -10,5 +10,5 @@ correspondientes a los lados del triángulo, y entregue el semi-perímetro de es
 2. Usando la función anterior, escriba la función `Heron(a, b, c)` , que recibe
 también tres números correspondientes a los lados, y entrega como resultado, el
 cálculo del ´area de este triángulo.
-Nota: No hace falta verificar que los lados cumplen la desigualdad triangular,
-asuma que los lados entregados la cumplen.
+
+    **Nota:** No hace falta verificar que los lados cumplen la desigualdad triangular, asuma que los lados entregados la cumplen.
