@@ -1,4 +1,8 @@
-## El Loro de Loreto
+---
+tags: [Función Interactiva]
+---
+
+# El Loro de Loreto
 
 Loreto extraña mucho a su lorito mascota durante las clases del curso CC1002, lo cual la pone triste y causa que se distraiga mucho. Para disminuir sus distracciones, y aumentar su felicidad, la ayudará a crear una función interactiva en Python, que simulará el comportamiento de un loro.
 
