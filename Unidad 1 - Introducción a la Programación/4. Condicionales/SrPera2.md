@@ -1,5 +1,5 @@
 ---
-tags: [Condicionales, Funciones Interactivas]
+tags: [Condicionales, Función Interactiva]
 ---
 
 # Sr Pera 2
