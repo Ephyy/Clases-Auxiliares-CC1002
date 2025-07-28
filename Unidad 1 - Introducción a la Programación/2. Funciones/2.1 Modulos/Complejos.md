@@ -20,7 +20,7 @@ y retorne su coseno.
 3. Ahora, en **otro archivo**, cree un script llamado `interactivo.py`, que importe el módulo `trigonometria.py` y genere el siguiente dialogo:
 
     ```python
-    Angulo? 180   // recibe el ángulo como input
+    >> Angulo? 180   // recibe el ángulo como input
     e^(i*180) = -1.0 + i*1.22464679915e-16   // entrega la expresión en forma compleja
     ```
 
