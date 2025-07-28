@@ -1,4 +1,4 @@
-# Alimentar a un Gato
+# Calorías de un gato
 
 En este ejercicio debemos alimentar a un gato, sin embargo usted no sabe la cantidad exacta de comida
 que le debe dar. Buscando en internet, encuentra la siguiente fórmula (de dudosa procedencia):
