@@ -5,6 +5,7 @@ tags: [Funciones, Modulos, Programas Interactivos]
 # Números Complejos
 
 Recordemos que la formula de euler para números complejos establece que:
+
 $$ e^{i\theta} = cos(\theta) + i \cdot sen(\theta) $$
 
 Donde $i$ es la unidad imaginaria y $\theta$ es un ángulo en radianes
@@ -27,7 +28,6 @@ y retorne su coseno.
 Utilice el modulo `math` y que:
 
 $$ Re(e^{i\theta}) = cos(\theta) $$
-
 $$ Im(e^{i\theta}) = sin(\theta) $$
 
 
