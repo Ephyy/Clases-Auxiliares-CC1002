@@ -25,7 +25,9 @@ y retorne su coseno.
 
 **Indicación:** 
 Utilice el modulo `math` y que:
+
 $$ Re(e^{i\theta}) = cos(\theta) $$
+
 $$ Im(e^{i\theta}) = sin(\theta) $$
 
 
