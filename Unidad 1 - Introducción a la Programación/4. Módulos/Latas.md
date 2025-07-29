@@ -1,4 +1,6 @@
-
+---
+tags: [Módulos, "Función Interactiva"]
+---
 # Latas
 
 Daniel trabaja para una reconocida embotelladora de jugos y bebidas (y otros líquidos refrescantes), y opera en la división que se encarga de los productos envasados en lata. Para la embotelladora, el costo de producir un producto enlatado, viene dado por el volumen de liquido a utilizar para llenar la lata, y la etiqueta o publicidad que se colocará en su contorno y tapas. Daniel recibe todos los días una planilla con nuevas propuestas de latas (cilindros de distinta altura y radio), y debe calcular el costo de cada una de estas propuestas.
