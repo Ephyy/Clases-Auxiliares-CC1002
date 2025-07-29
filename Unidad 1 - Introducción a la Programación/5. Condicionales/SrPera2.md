@@ -18,7 +18,7 @@ llegar con 4, 0 al examen.
 
 **b)** Su amigo le agradece la ayuda pero lamentablemente no le fue como esperaba
 y sus niveles de pera han aumentado significativamente, llegando a niveles por
-sobre los 9000 [ 🍐 / 👨‍🎓]. Para disminuir los niveles de pera de su amigo se decide
+sobre los 9000 [🍐 / 👨‍🎓]. Para disminuir los niveles de pera de su amigo se decide
 hacer la función `notaParaExamen(c1,c2,c3)` que recibe las notas de control
 de este triste y peron alumno y retorne la nota que necesita para pasar en el
 examen.

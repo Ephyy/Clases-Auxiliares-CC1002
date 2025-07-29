@@ -1,6 +1,7 @@
 # Herón
 
 Una forma conocida para calcular el area de un triángulo es la formula de Herón:
+
 $$ A = \sqrt{S(S − a)(S − b)(S − c)} $$
 
 donde a, b, c son los lados del triángulo, y S es el semi-perímetro del mismo.
