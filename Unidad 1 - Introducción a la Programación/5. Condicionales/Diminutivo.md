@@ -7,4 +7,4 @@ Cree la función `diminutivo(a, b)`, donde a y b son números enteros, cada uno 
 
 - Si cada dígito de a, es estrictamente menor a los de b, entonces la función debe mostrar
 “correcto!” en la pantalla, y retornar *True*
-- En caso contrario, debe mostrar “incorrecto! [$d_{a}$] es mayor o igual a [$d_{b}$]”, en donde $d_{a}$ y $d_{b}$ son los dígitos de a y b respectivamente en donde no se cumple la condición. Además, la función debe retornar *False*.
+- En caso contrario, debe mostrar “incorrecto! $[d_{a}]$ es mayor o igual a $[d_{b}]$”, en donde $d_{a}$ y $d_{b}$ son los dígitos de a y b respectivamente en donde no se cumple la condición. Además, la función debe retornar *False*.
