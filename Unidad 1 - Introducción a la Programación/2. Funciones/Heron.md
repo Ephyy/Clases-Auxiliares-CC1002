@@ -1,3 +1,6 @@
+---
+tags: [Funciones]
+---
 # Herón
 
 Una forma conocida para calcular el area de un triángulo es la formula de Herón:

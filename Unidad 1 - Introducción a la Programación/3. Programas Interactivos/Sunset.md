@@ -1,3 +1,7 @@
+---
+tags: [Programa Interactivo]
+---
+
 # Sunset
 Hay que implementar un programa interactivo que simule la compra de entradas para el evento
 Sunset y la opción de agregar bebidas (muy sanas y sin ningún componente misterioso…).

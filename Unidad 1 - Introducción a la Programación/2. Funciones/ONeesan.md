@@ -1,3 +1,6 @@
+---
+tags: [Funciones]
+---
 # Empresa O'Neesan
 
 Una empresa llamada “O'Neesan”, vendedora de autos muy famosa, tiene los datos de

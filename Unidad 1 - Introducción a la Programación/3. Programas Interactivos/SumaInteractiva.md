@@ -1,3 +1,7 @@
+---
+tags: [Programa Interactivo, Función Interactiva]
+---
+
 # Suma Interactiva
 
 El siguiente problema constará de dos partes:

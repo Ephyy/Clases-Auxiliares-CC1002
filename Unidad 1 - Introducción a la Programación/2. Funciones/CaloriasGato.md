@@ -1,3 +1,6 @@
+---
+tags: [Funciones]
+---
 # Calorías de un gato
 
 En este ejercicio debemos alimentar a un gato, sin embargo usted no sabe la cantidad exacta de comida

@@ -1,4 +1,6 @@
-
+---
+tags: [Funciones]
+---
 # Calculando el IFG 
 
 El Índice de Felicidad de un Gato (IFG) al recibir un churu, puede calcularse con la siguiente formula:

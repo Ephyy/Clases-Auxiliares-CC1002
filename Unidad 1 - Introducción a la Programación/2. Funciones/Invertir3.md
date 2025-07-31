@@ -1,3 +1,6 @@
+---
+tags: [Funciones]
+---
 # Invertir3
 Ana está dando el curso de Introducción a la Programación, y tiene una gran motivación, pues el DCC es el departamento de sus sueños, por eso tiene muchas ganas de que le vaya super bien en el ramo. Para desafiarse a sí misma a aprender más, se propuso extender la función vista en clases que invertía números de 2 dígitos, a una función que invierta números de 3 dígitos. Como ustedes son tan motivados como Ana, también crearán `invertir3`! :)
 

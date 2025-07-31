@@ -1,5 +1,5 @@
 ---
-tags: [Función Interactiva]
+tags: [Funciones, Programa Interactivo, Función Interactiva]
 ---
 
 # Intereses

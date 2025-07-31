@@ -1,3 +1,6 @@
+---
+tags: [Funciones]
+---
 # Moneytrón
 
 Un banco de presencia internacional ha creado un robot de nombre moneytrón, cuya misión

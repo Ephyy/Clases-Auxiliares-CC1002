@@ -1,5 +1,5 @@
 ---
-tags: [Función Interactiva]
+tags: [Programa Interactivo, Función Interactiva]
 ---
 
 # El Loro de Loreto

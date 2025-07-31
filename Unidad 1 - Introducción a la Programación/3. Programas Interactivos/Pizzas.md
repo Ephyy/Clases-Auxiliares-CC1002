@@ -1,5 +1,5 @@
 ---
-tags: ["Programas Interactivos"]
+tags: [Funciones, Programa Interactivo]
 ---
 
 # Pizzas
@@ -10,7 +10,7 @@ Luigi, el dueño del local, tiene la siguiente formula para calcular la cantidad
 
 $$ Salsa = \pi \cdot ln(r + 1)^{2} \cdot 10 $$
 
-**a)** Al respecto, cree la función llamada salsa(r), que calcula la cantidad de salsa a utilizar, en función del radio r de la pizza. Redondee el resultado final a 2 decimales.
+**a)** Al respecto, cree la función llamada `salsa(r)`, que calcula la cantidad de salsa a utilizar, en función del radio $r$ de la pizza. Redondee el resultado final a 2 decimales.
 
 **b)** Haga un programa interactivo, estableciendo el siguiente dialogo:
 

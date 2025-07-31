@@ -1,5 +1,5 @@
 ---
-tags: [Módulos, Programas Interactivos]
+tags: [Funciones, Módulos, Programa Interactivo]
 ---
 
 # Números Complejos
