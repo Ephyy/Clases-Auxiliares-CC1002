@@ -1,5 +1,5 @@
 ---
-tags: [Funciones, Módulos, "Función Interactiva"]
+tags: [Funciones, Módulos, Función Interactiva]
 ---
 # Latas
 
