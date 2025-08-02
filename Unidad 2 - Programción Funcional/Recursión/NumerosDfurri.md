@@ -5,7 +5,7 @@ tags: [Recursion]
 # Numeros de D’furrí
 
 Un número se dice que es D’furrí (pronunciado «de-fuugi») si cumple la siguiente propiedad: \
-*«El resultado de la suma consecutiva de los dígitos de $N$, se encuentra presente como uno de los dígitos de $N$»*
+*«El resultado de la suma consecutiva de los dígitos de N, se encuentra presente como uno de los dígitos de N»*
 
 Por ejemplo: 
 - 456 es D’furrí porque 4 + 5 + 6 → 15, luego 1 + 5 → 6, y 6 está en los dígitos de 456.
