@@ -43,13 +43,13 @@ Considere los programas listados a continuación. ¿Qué imprime el intérprete,
 ```
 
 ```python
->>> ancho = input ('Ingrese valor del ancho: ')
->>> largo = input ('Ingrese valor del largo: ')
+>>> ancho = input('Ingrese valor del ancho: ')
+>>> largo = input('Ingrese valor del largo: ')
 >>> area = ancho * largo
->>> print ('El area es: ' + area )
+>>> print('El area es: ' + area )
 ```
 
 ```python
->>> edad = int( input ('Ingrese ␣ edad ') )
->>> print ('Tu␣ edad ␣es␣' + edad )
+>>> edad = int(input('Ingrese edad: '))
+>>> print('Tu␣ edad ␣es␣' + edad )
 ```
