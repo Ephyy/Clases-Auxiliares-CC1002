@@ -26,8 +26,8 @@ Para ello:
     Hola [nombre] ¡Bienvenido/a al sistema de compra de entradas para el Sunset! 
     ```
 
-3. A continuación, el programa debe preguntar cuántas entradas desea comprar el usuario, y calcular el costo total de las entradas. Cada entrada tiene un precio fijo de $\$5.000$.
-4. Luego, debe preguntar cuántas bebidas desea agregar el usuario a su compra (puede agregar 0), y calcular el costo total de las bebidas. Cada bebida tiene un precio fijo de $\$2.000$.
+3. A continuación, el programa debe preguntar cuántas entradas desea comprar el usuario, y calcular el costo total de las entradas. Cada entrada tiene un precio fijo de \$5.000.
+4. Luego, debe preguntar cuántas bebidas desea agregar el usuario a su compra (puede agregar 0), y calcular el costo total de las bebidas. Cada bebida tiene un precio fijo de \$2.000.
 5. Debe sumar el costo de las entradas y el costo de las bebidas para obtener el costo total de la compra, mostrando un mensaje como: 
 
     ```
