@@ -1,3 +1,6 @@
+---
+tags: [Pregunta Control]
+---
 
 # **[C1 2017-1]** Datos del Censo 
 

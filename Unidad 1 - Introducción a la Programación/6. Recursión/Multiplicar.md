@@ -1,3 +1,6 @@
+---
+tags: [Recursion]
+---
 
 # Multiplicar
 Cree una función recursiva llamada `multiplicar(a,b)`, que multiplique 2 números enteros positivos sin usar el operador *. Ejemplo: `multiplicar(3,4) entrega 12`.

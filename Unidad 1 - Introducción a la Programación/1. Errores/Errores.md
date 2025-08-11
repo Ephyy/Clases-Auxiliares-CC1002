@@ -1,3 +1,7 @@
+---
+tags: [Errores]
+---
+
 # Encontrar el error
 Considere los programas listados a continuación. ¿Qué imprime el intérprete, o que error arroja en cada caso?
 

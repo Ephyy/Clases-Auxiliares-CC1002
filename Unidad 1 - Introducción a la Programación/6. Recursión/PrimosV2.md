@@ -1,3 +1,7 @@
+---
+tags: [Recursion]
+---
+
 # Números Primos
 
 El objetivo de la siguiente pregunta es realizar un programa que entregue un String que contenga los números primos en un determinado rango. Para ello se le propone a usted seguir los siguientes pasos:

@@ -1,5 +1,5 @@
 ---
-tags: [Módulos, Programas Interactivos]
+tags: [Módulos, Condicionales, Programas Interactivos]
 ---
 
 # Fabrica de Galletas

@@ -1,3 +1,7 @@
+---
+tags: [Condicionales]
+---
+
 # Vidrios
 
 Los vidrios de 851 se caen! Por esto la facultad contrató a un equipo de investigación que pueda identificar la causa del desprendimiento de los vidrios. Tu eres parte de ese equipo, y tu jefe te pide que programes la siguiente función que nos ayudará a modelar la caída de los vidrios:
