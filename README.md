@@ -10,6 +10,6 @@ Agradicimientos a todas las personas que han participado en la creación de algu
 - Cristian Parra
 - [Vicente Ardiles](https://github.com/Ephyy)
 - [Vanessa Gaete](https://github.com/VanessaGaete)
-- Monserrat Prado
-- Julieta Coloma
+- [Monserrat Prado](https://github.com/monsita101)
+- [Julieta Coloma](https://github.com/asouris)
 - Arianne Peña
