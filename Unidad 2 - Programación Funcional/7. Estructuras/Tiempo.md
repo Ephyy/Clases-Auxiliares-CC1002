@@ -24,5 +24,5 @@ f) Una función llamada `sumar(T1,T2)`, que recibe dos Tiempos, y entrega como r
 g) Una función llamada `restar(T1,T2)` , que recibe dos Tiempos y entrega como resultado un dato de tipo Tiempo que representa la resta de los dos tiempos. (En caso de que el resultado calculado sea negativo, entonces el tiempo resultante es 0). Por ejemplo:
 - `restar(Tiempo(4,58), Tiempo(3,5))` entrega `Tiempo(1,53)`
 
-h) Una función llamada `mayor(T1,T2)`, que compara dos `Tiempos` y entrega el `Tiempo` que sea mayor. Por ejemplo:
+h) Una función llamada `mayor(T1,T2)`, que compara dos `Tiempo` y entrega el `Tiempo` que sea mayor. Por ejemplo:
 - `mayor(Tiempo(4,58), Tiempo(3,5))` entrega `Tiempo(4,58)`
