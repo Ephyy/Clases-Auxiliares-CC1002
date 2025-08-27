@@ -20,7 +20,7 @@ $$ \sum_{k=0}^{n} \frac{1}{2^k} = 1 + \frac{1}{2} + \frac{1}{4} + \cdots + \frac
 
 Con n terminos, Por ejemplo:
 
-- `binpow(3)` entrega `1.75`
+- `binpow(2)` entrega `1.75`
 
 c) Cree una función llamada `taylor(x, n)`, que permita calcular la serie de taylor de la función $sin(x)$:
 
