@@ -15,9 +15,9 @@ Por ejemplo, el árbol `AP1` es similar con ` AP2`, pues tienen el mismo conteni
   - `contieneTodos(A1, A2)` entrega `True`
   - `contieneTodos(A1, A3)` entrega `False`
 
-  Hint: Recuerde que existe la función ` buscar(A,e)` de árboles binarios.
+  Hint: Recuerde que existe la función `buscar(A,e)` de árboles binarios.
 
-**b)** Cree la función ` parecidos(A1, A2)`, que recibe dos árboles binarios, y entrega `True` si es que tales arboles cumplen con ser parecidos. Por ejemplo:
+**b)** Cree la función `parecidos(A1, A2)`, que recibe dos árboles binarios, y entrega `True` si es que tales arboles cumplen con ser parecidos. Por ejemplo:
 
   - ` parecidos(A1, A2)` entrega `True`
   - ` parecidos(A1, A3)` entrega `False`
