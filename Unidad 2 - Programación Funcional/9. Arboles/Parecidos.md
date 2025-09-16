@@ -6,7 +6,7 @@ tags: [Arboles Binarios]
 
 Dos árboles binarios se dice que son _parecidos_, si es que tienen el mismo contenido, aunque no necesariamente en el mismo orden. Por simplicidad asumiremos que en un mismo árbol no puede haber elementos repetidos.
 
-![arboles magnéticos](./img/arbol_simil.PNG)_
+![arboles magnéticos](./img/arbol_simil.PNG)
 
 Por ejemplo, el árbol `AP1` es similar con ` AP2`, pues tienen el mismo contenido, pero no es similar con ` AP3`, pues, a pesar de que tienen la misma forma, su contenido es distinto. Al respecto, programe lo siguiente:
 
